@@ -32,6 +32,8 @@ Sistem dökümantasyonu ve veritabanı yapısına ait görseller dokumanlar/ kla
 <img width="1915" height="954" alt="çalışan ekranı(duyuru paneli,izin hakları ,izin alma paneli)" src="https://github.com/user-attachments/assets/6c4b160b-080a-4f27-ad53-fcf257558158" />
 <img width="1916" height="957" alt="çalışan onaylanan ve beklenen izinleri göçrüyor ve onaylanan izin talebi izin hakkından düşüyor" src="https://github.com/user-attachments/assets/648ec9d0-24fe-4011-8246-b7e803a9640f" />
 <img width="1912" height="959" alt="çalışan ekibe özel ve herkese açık gelen duyuruları görmesi" src="https://github.com/user-attachments/assets/2382d823-be73-4b03-b90d-a9d445beb027" />
+<img width="1672" height="789" alt="E-R DİYAGRAMI" src="https://github.com/user-attachments/assets/9432aa47-8598-481f-a5f0-6e88bcc4dedc" />
+
 
 
 
