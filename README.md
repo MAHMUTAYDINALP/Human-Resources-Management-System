@@ -67,5 +67,6 @@ leave_types ve employment_types tablolarına gerekli tanımlamaları ekleyin.
 
 
 Geliştiren: Mahmut AydınAlp
+
 https://www.linkedin.com/in/mahmut-ayd%C4%B1nalp-659875282/      
 https://github.com/MAHMUTAYDINALP
