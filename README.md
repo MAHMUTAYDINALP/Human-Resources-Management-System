@@ -30,7 +30,7 @@ Personel Listesi: ![Personel Tablosu](/dokumanlar/giriş ekranı.png)
 
 Veritabanı Şifre Güvenliği: ![Hashli Sifreler](./dokumanlar/image_4896c5.jpg)
 
-Sistem Mimarisi (Loglar): ![Uvicorn Logs](./dokumanlar/image_46bd6b.png)
+Sistem Mimarisi (Loglar): ![Uvicorn Logs](./dokumanlar/giriş ekranı.png.png)
 
 🚀 Kurulum ve Çalıştırma
 1. Backend (FastAPI)
