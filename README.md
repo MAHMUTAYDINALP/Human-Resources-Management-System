@@ -28,7 +28,8 @@ Genel Dashboard: ![Dashboard](./dokumanlar/insan kaynakları izindekilerin liste
 
 Personel Listesi: ![Personel Tablosu](/DOKUMANLAR/giriş ekranı.png)
 
-Veritabanı Şifre Güvenliği: ![Hashli Sifreler](./dokumanlar/image_4896c5.jpg)
+<img width="1912" height="959" alt="çalışan ekibe özel ve herkese açık gelen duyuruları görmesi" src="https://github.com/user-attachments/assets/e7e63722-96b0-47f1-8e24-9faf4114531a" />
+
 
 Sistem Mimarisi (Loglar): ![Uvicorn Logs](./dokumanlar/giriş ekranı.png)
 
