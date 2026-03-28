@@ -26,7 +26,7 @@ Sistem dökümantasyonu ve veritabanı yapısına ait görseller dokumanlar/ kla
 
 Genel Dashboard: ![Dashboard](./dokumanlar/insan kaynakları izindekilerin listesini görme ekranı.png)
 
-Personel Listesi: ![Personel Tablosu](./dokumanlar/image_472ec9.png)
+Personel Listesi: ![Personel Tablosu](/dokumanlar/giriş ekranı.png)
 
 Veritabanı Şifre Güvenliği: ![Hashli Sifreler](./dokumanlar/image_4896c5.jpg)
 
