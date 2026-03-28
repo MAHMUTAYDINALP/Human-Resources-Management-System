@@ -24,14 +24,19 @@ Doğum Günü Takibi: Yaklaşan personel doğum günlerini listeleyen özel bir 
 📸 Uygulama Görselleri
 Sistem dökümantasyonu ve veritabanı yapısına ait görseller dokumanlar/ klasöründe yer almaktadır:
 
-Genel Dashboard: ![Dashboard](./dokumanlar/insan kaynakları izindekilerin listesini görme ekranı.png)
-
-Personel Listesi: ![Personel Tablosu](/DOKUMANLAR/giriş ekranı.png)
-
+<img width="1918" height="957" alt="giriş ekranı" src="https://github.com/user-attachments/assets/3f08e964-f5f3-49a1-9b32-b5b0c72b650f" />
 <img width="1912" height="959" alt="çalışan ekibe özel ve herkese açık gelen duyuruları görmesi" src="https://github.com/user-attachments/assets/e7e63722-96b0-47f1-8e24-9faf4114531a" />
+<img width="1914" height="961" alt="insan kaynakları izin isteklerini gördügü panel" src="https://github.com/user-attachments/assets/2852f7d3-eb38-4c35-9c42-6a0f6b2a3e78" />
+<img width="1912" height="998" alt="personel ekleme" src="https://github.com/user-attachments/assets/a9b6c74a-e581-4522-b7ca-96b1ac0bb7df" />
+<img width="1915" height="954" alt="çalışan ekranı(duyuru paneli,izin hakları ,izin alma paneli)" src="https://github.com/user-attachments/assets/6c4b160b-080a-4f27-ad53-fcf257558158" />
+<img width="1916" height="957" alt="çalışan onaylanan ve beklenen izinleri göçrüyor ve onaylanan izin talebi izin hakkından düşüyor" src="https://github.com/user-attachments/assets/648ec9d0-24fe-4011-8246-b7e803a9640f" />
+<img width="1912" height="959" alt="çalışan ekibe özel ve herkese açık gelen duyuruları görmesi" src="https://github.com/user-attachments/assets/2382d823-be73-4b03-b90d-a9d445beb027" />
+<img width="1915" height="955" alt="insan kaynakları izindekilerin listesini görme ekranı" src="https://github.com/user-attachments/assets/4775be32-2683-4fc0-8081-2eb32839ceca" />
 
 
-Sistem Mimarisi (Loglar): ![Uvicorn Logs](./dokumanlar/giriş ekranı.png)
+
+
+Sistem Mimarisi (Loglar): 
 
 🚀 Kurulum ve Çalıştırma
 1. Backend (FastAPI)
@@ -59,13 +64,7 @@ DATABASE/ klasöründeki şemayı içe aktarın.
 
 leave_types ve employment_types tablolarına gerekli tanımlamaları ekleyin.
 
-📂 Proje Yapısı
-Plaintext
-ik-yonetim-sistemi/
-├── app/                # Backend API Kodları
-├── frontend/           # React Kullanıcı Arayüzü
-├── dokumanlar/         # Ekran Görüntüleri ve Belgeler
-└── DATABASE/           # SQL Şemaları ve Test Verileri
+
 Geliştiren: Mahmut AydınAlp
 https://www.linkedin.com/in/mahmut-ayd%C4%B1nalp-659875282/      
 https://github.com/MAHMUTAYDINALP
