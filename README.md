@@ -67,7 +67,8 @@ DATABASE/ klasöründeki şemayı içe aktarın.
 
 leave_types ve employment_types tablolarına gerekli tanımlamaları ekleyin.
 
-🎓 Akademik Bilgi
+🎓 Akademik Bilgi:
+
 Bu proje, Karadeniz Teknik Üniversitesi (KTÜ) Yazılım Mühendisliği 3. Sınıf (1. Dönem) Betik Diller dersi bitirme ödevi/projesi olarak Mahmut Aydınalp tarafından geliştirilmiştir.
 
 Geliştiren: Mahmut AydınAlp
