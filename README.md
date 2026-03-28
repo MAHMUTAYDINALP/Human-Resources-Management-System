@@ -24,7 +24,7 @@ Doğum Günü Takibi: Yaklaşan personel doğum günlerini listeleyen özel bir 
 📸 Uygulama Görselleri
 Sistem dökümantasyonu ve veritabanı yapısına ait görseller dokumanlar/ klasöründe yer almaktadır:
 
-Genel Dashboard: ![Dashboard](./dokumanlar/insan kaynakları izindekilerin listesini görme ekranı)
+Genel Dashboard: ![Dashboard](./dokumanlar/insan kaynakları izindekilerin listesini görme ekranı.png)
 
 Personel Listesi: ![Personel Tablosu](./dokumanlar/image_472ec9.png)
 
